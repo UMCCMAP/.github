@@ -27,5 +27,5 @@
 ---
 | [박승태](https://github.com/stpark0059) | [임연지](https://github.com/yeonjy) | [김세연](https://github.com/threeony) | [박성훈](https://github.com/seongddiyong) | [윤원석](https://github.com/wonseokyoon) | [이민지](https://github.com/alswlfl29) | [이주영](https://github.com/phnml1) | [강하나](https://github.com/kanghana1) |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| PM | Backend, Leader, DevOps | Backend | Backend | Backend | Frontend, Leader, DevOps | Frontend | Frontend |   
+| PM | Backend, Leader, DevOps | Backend | Backend | Backend, DevOps | Frontend, Leader, DevOps | Frontend | Frontend |   
  
