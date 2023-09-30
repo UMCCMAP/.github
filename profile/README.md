@@ -132,6 +132,7 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/slf4j-6DB33F?style=for-the-badge&logo=slf4j&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
@@ -148,7 +149,7 @@
 
 ```
 - Frontend: React, Vite, Styled-components
-- Backend : Springboot, redis, Spring Security, JPA, Slf4j
+- Backend : Springboot, redis, Spring Security, JPA, JUnit5, Slf4j
 - Web Server: Nginx
 - Database: AWS RDS MySQL
 - Deployment: Docker, AWS EC2, AWS S3 bucket
